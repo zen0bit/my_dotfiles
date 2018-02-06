@@ -1,4 +1,5 @@
-# Modified By Aditya Shakya...
+## Modified By Aditya Shakya...
+## Simple config file with no album art (can be use on any terminal)
 
 ncmpcpp_directory = ~/.ncmpcpp
 lyrics_directory = ~/.ncmpcpp/lyrics
