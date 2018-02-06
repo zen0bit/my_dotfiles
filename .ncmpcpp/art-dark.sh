@@ -1,7 +1,9 @@
 #!/bin/bash
 
+# Modify this according to you...
 MUSIC_DIR=/home/aditya/Music
 
+# Must have a jpg/png cover image in album directory 
 COVER=/tmp/cover.jpg
 
 function reset_background
