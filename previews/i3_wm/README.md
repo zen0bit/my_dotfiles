@@ -83,7 +83,7 @@
 
 ## Final Words
 
-- This is Arch Linux (Best One, I love it)
-- This (whole) System is installed on a 16gb USB Flash Drive
-- This is my portable Hacking system too...lol
-- Enjoy...!
+> This is Arch Linux (Best One, I love it)
+> This (whole) System is installed on a 16gb USB Flash Drive
+> This is my portable Hacking system too...lol
+> Enjoy...!
