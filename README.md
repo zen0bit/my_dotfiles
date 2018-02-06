@@ -11,13 +11,14 @@ Hi Guys, Welcome Here...
 First of all, i love linux and customizing it.
 So, it's just a place where i put my configuration files (most of them), so later i can share these files with you guys.
 
-|----------------------------------------------------------------------------------------------------------------------|
-   _                                 _ ____
-  /_\__ __ _____ ___ ___ _ __  ___  (_)__ /
- / _ \ V  V / -_|_-</ _ \ '  \/ -_) | ||_ \
-/_/ \_\_/\_/\___/__/\___/_|_|_\___| |_|___/
-                                           
-                                                                     
+    _                                           _ _____ 
+   / \__      _____  ___  ___  _ __ ___   ___  (_)___ / 
+  / _ \ \ /\ / / _ \/ __|/ _ \| '_ ` _ \ / _ \ | | |_ \ 
+ / ___ \ V  V /  __/\__ \ (_) | | | | | |  __/ | |___) |
+/_/   \_\_/\_/ \___||___/\___/|_| |_| |_|\___| |_|____/ 
+                                                        
+
+
 Currently, i can only share my "i3 customization"...
 Here are some screenshots ...
 
