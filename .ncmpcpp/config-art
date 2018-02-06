@@ -1,3 +1,6 @@
+## Modified By Aditya Shakya...
+## config file for album art support (use with fixed width URXVT terminal with support of pixbuf...)
+
 ncmpcpp_directory = ~/.ncmpcpp
 lyrics_directory = ~/.ncmpcpp/lyrics
 mpd_host = localhost
