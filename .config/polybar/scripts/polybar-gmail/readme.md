@@ -1,5 +1,7 @@
 # Polybar Gmail
 
+Modified Readme.md for this configuration. credit/rights goes to it's Developer.
+
 A [Polybar](https://github.com/jaagr/polybar) module to show unread messages from Gmail.
 
 ![preview](https://github.com/vyachkonovalov/polybar-gmail/raw/master/preview.png)
@@ -10,22 +12,13 @@ A [Polybar](https://github.com/jaagr/polybar) module to show unread messages fro
 sudo pip install --upgrade google-api-python-client
 ```
 
-**Font Awesome** - for email badge
+**Fonts: Siji** - for email badge
 
 **canberra-gtk-play** - for new email sound
 
 You can change the badge or turn off sound, for more info see [script arguments](#script-arguments)
 
-## Installation
-
-```sh
-cd ~/.config/polybar
-curl -LO https://github.com/vyachkonovalov/polybar-gmail/archive/master.tar.gz
-tar zxf master.tar.gz && rm master.tar.gz
-mv polybar-gmail-master gmail
-```
-
-and obtain/refresh credentials
+Obtain/refresh credentials
 
 ```sh
 ~/.config/polybar/gmail/auth.py
@@ -36,7 +29,7 @@ and obtain/refresh credentials
 ```ini
 [module/gmail]
 type = custom/script
-exec = ~/.config/polybar/gmail/launch.py
+exec = ~/.config/polybar/scripts/polybar-gmail/launch.py
 tail = true
 click-left = xdg-open https://mail.google.com
 ```
