@@ -5,61 +5,64 @@
                 `--' `--''--'   '--' `----'`----'  `---' `--`--`--' `----'        `--'`----'  
 
 
-## Overview
+## Overview :-
+- Gtk Theme : [Adapta-Nokto-Eta](https://github.com/adapta-project/adapta-gtk-theme)
+- Icon Pack : [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+- Bars : [Polybar](https://github.com/jaagr/polybar)
+- Fonts : [Siji](https://github.com/stark/siji) & Termsyn
+- Wallpaper : [Dark-Material](https://github.com/adi1090x/my_dotfiles/blob/master/.backgrounds/dark_material.png)
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/desktop.png) <br />
 
-The Default Desktop of i3-gaps, polybar is at top & bottom. in the top-mid panel, these are workspaces, arch icon at left is menu launcher. Etc... <br />
-
-**text here**
+**Neofetch** : Running neofetch on termite
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/desktop_neofetch.png) <br />
 
-**text here**
+**The Tux** : Tux Ascii, Cylon tool, And...
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/Desktop_tux.png) <br />
 
-**text here**
+**Few Programs** : neofetch, cava, cmatrix, colorpanes, pipes
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/desktop_alt_1.png) <br />
 
-**text here**
+**Penetration Tools P1** : 
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/hack_1.png) <br />
 
-**text here**
+**Penetration Tools P2** :
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/hack_2.png) <br />
 
-**text here**
+**Penetration Tools P3** :
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/hack_3.png) <br />
 
-**text here**
+**Multimedia** :
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/media.png) <br />
 
-**text here**
+**File Managers** :
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/ranger_mc_mocp.png) <br />
 
-**text here**
+**Rofi** :
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/rofi.png) <br />
 
-**text here**
+**System Monitors** :
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/system_mon.png) <br />
 
-**text here**
+**Graphical Apps** :
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/thunar_geany.png) <br />
 
-**text here**
+**Editors** :
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/vim_mcedit.png) <br />
 
-**text here**
+**Web Browser* :
 
 ![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/web_firefox.png) <br />
 
