@@ -23,7 +23,7 @@
 
 **The Tux** : Tux Ascii, Cylon tool, And...
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/Desktop_tux.png) <br />
+![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/desktop_tux.png) <br />
 
 
 **Few Programs** : neofetch, cava, cmatrix, colorpanes, pipes
