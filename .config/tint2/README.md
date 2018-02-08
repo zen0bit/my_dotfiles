@@ -5,7 +5,7 @@
 
 ![panel_logo](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/banners/logo_panel.png) <br />
 
-**Overview** : These tint2 themes are created by me for my custom ubuntu based os "openunix". they are created to be matched with gtk theme, icons & desktop wallpapers.
+**Overview** : These tint2 themes are created by me for my custom ubuntu based os [openunix](https://github.com/adi1090x/my_dotfiles/tree/master/previews/openbox). they are created to be matched with gtk theme, icons & desktop wallpapers.
 
 **Themes** : there are 24 standard themes & some alterntive themes also included.
 
