@@ -1,7 +1,7 @@
 
 ## Tint2 Panel
 
-[tint2](https://github.com/semplice/tint2) is a simple panel/taskbar made for modern X window managers. It was specifically made for Openbox but it should also work with other window managers (GNOME, KDE, XFCE etc.). It is based on ttm http://code.google.com/p/ttm/.
+[tint2](https://github.com/semplice/tint2) is a simple panel/taskbar made for modern X window managers. It was specifically made for Openbox but it should also work with other window managers (GNOME, KDE, XFCE etc.). It is based on [ttm](http://code.google.com/p/ttm/).
 
 ![fisrt_i3_wm banner](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/.config/tint2/panel.png) <br />
 
