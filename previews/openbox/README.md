@@ -8,9 +8,9 @@
 
 ## Overview
 - Gtk Theme : [Arc-theme](https://github.com/horst3180/arc-theme) (Self modified for accent colors)
-- Icon Pack : [Numix-icons](https://github.com/numixproject/numix-icon-theme) (Self Modified for colors)
+- Icon Pack : [Numix-icons](https://github.com/numixproject/numix-icon-theme) (Self Modified for folder colors & [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) (For rest all icons)
 - Panel : [tint2](https://github.com/semplice/tint2) (Self made themes [Here](https://github.com/adi1090x/my_dotfiles/tree/master/.config/tint2))
-- Wallpaper : [Random wallpapers](https://www.deviantart.com/morelikethis/collections/196651693)
+- Wallpapers : [Random wallpapers](https://www.deviantart.com/morelikethis/collections/196651693)
 
 
 ![blue](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/openbox/blue.png) <br />
@@ -43,9 +43,11 @@
 
 ![yellow](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/openbox/yellow.png) <br />
 
-**Colored Panels** : Matched colors for [Panels](https://github.com/adi1090x/my_dotfiles/tree/master/.config/tint2).
+**Yellow Workspace** : Yellow Desktop looks with same color for Gtk-theme, Icons & Panel.
 
 ![panel](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/openbox/panel.png) <br />
+
+**Colored Panels** : Matched colors for [Panels](https://github.com/adi1090x/my_dotfiles/tree/master/.config/tint2).
 
 
 ## Final Words
