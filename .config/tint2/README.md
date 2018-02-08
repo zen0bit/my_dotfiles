@@ -3,7 +3,7 @@
 
 [tint2](https://github.com/semplice/tint2) is a simple panel/taskbar made for modern X window managers. It was specifically made for Openbox but it should also work with other window managers (GNOME, KDE, XFCE etc.). It is based on [ttm](http://code.google.com/p/ttm/).
 
-![fisrt_i3_wm banner](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/.config/tint2/panel.png) <br />
+![panel_logo](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/banners/logo_panel.png) <br />
 
 **Overview** : These tint2 themes are created by me for my custom ubuntu based os "openunix". they are created to be matched with gtk theme, icons & desktop wallpapers.
 
@@ -11,18 +11,10 @@
 
 **colors** : i used 3 varients & 8 colors for tint2 themes in which, Light, dark & dark-alt varients with colors -
 
-> blue : to match with blue looks, both light & dark with coloured system tray and an alt version.
+**Dark Panels** : Available all 8 colors, dark background & little transparancy with colored sys-tray.
 
-> brown : to match with brown looks, looks great on light with coloured system tray and an alt version.
+![dark_panel_logo](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/banners/tint2_dark_preview.png) <br />
 
-> green : to match with green looks, both light & dark with coloured system tray and an alt version.
+**Light Panels** : Available all 8 colors, light background with colored sys-tray.
 
-> orange : to match with orange looks, both light & dark with coloured system tray and an alt version.
-
-> pink : to match with pink looks, both light & dark with coloured system tray and an alt version.
-
-> purple : to match with purple looks, both light & dark with coloured system tray and an alt version.
-
-> red : to match with red looks, both light & dark with coloured system tray and an alt version.
-
-> yellow : to match with yellow looks, both light & dark with coloured system tray and an alt version.
+![light_panel_logo](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/banners/tint2_light_preview.png) <br />
