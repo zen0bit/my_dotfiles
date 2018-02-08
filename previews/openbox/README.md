@@ -1,10 +1,4 @@
-                             ,-----.                       ,--.                       
-                            '  .-.  ' ,---.  ,---. ,--,--, |  |-.  ,---.,--.  ,--.    
-                            |  | |  || .-. || .-. :|      \| .-. '| .-. |\  `'  /     
-                            '  '-'  '| '-' '\   --.|  ||  || `-' |' '-' '/  /.  \     
-                             `-----' |  |-'  `----'`--''--' `---'  `---''--'  '--'    
-                                     `--'                                             
-
+![openbox_logo](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/banners/logo_openbox.png) <br />
 
 ## Overview
 - Gtk Theme : [Arc-theme](https://github.com/horst3180/arc-theme) (Self modified for accent colors)
