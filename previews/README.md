@@ -1,14 +1,9 @@
-                     _ (`-.  _  .-')     ('-.        (`-.              ('-.    (`\ .-') /` .-')    
-                    ( (OO  )( \( -O )  _(  OO)     _(OO  )_          _(  OO)    `.( OO ),'( OO ).  
-                   _.`     \ ,------. (,------.,--(_/   ,. \ ,-.-') (,------.,--./  .--. (_)---\_) 
-                  (__...--'' |   /`. ' |  .---'\   \   /(__/ |  |OO) |  .---'|      |  | /    _ |  
-                   |  /  | | |  /  | | |  |     \   \ /   /  |  |  \ |  |    |  |   |  |,\  :` `.  
-                   |  |_.' | |  |_.' |(|  '--.   \   '   /,  |  |(_/(|  '--. |  |.'.|  |_)'..`''.) 
-                   |  .___.' |  .  '.' |  .--'    \     /__),|  |_.' |  .--' |         | .-._)   \ 
-                   |  |      |  |\  \  |  `---.    \   /   (_|  |    |  `---.|   ,'.   | \       / 
-                   `--'      `--' '--' `------'     `-'      `--'    `------''--'   '--'  `-----'  
+![previews_logo](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/banners/logo_previews.png) <br />
                    
-
 ## i3 / i3-gaps
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/media.png) <br />
+![i3wm_preview](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/banners/i3_preview.png) <br />
+
+## Openbox
+
+![openbox_preview](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/banners/openbox_preview.png) <br />
