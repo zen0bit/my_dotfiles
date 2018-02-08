@@ -1,9 +1,4 @@
-                  ,---.                                                           ,--.,----.  
-                 /  O  \ ,--.   ,--. ,---.  ,---.  ,---. ,--,--,--. ,---.         `--''.-.  | 
-                |  .-.  ||  |.'.|  || .-. :(  .-' | .-. ||        || .-. :        ,--.  .' <  
-                |  | |  ||   .'.   |\   --..-'  `)' '-' '|  |  |  |\   --.        |  |/'-'  | 
-                `--' `--''--'   '--' `----'`----'  `---' `--`--`--' `----'        `--'`----'  
-
+![i3wm_logo](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/banners/logo_i3wm.png) <br />
 
 ## Overview
 - Gtk Theme : [Adapta-Nokto-Eta](https://github.com/adapta-project/adapta-gtk-theme)
@@ -12,73 +7,59 @@
 - Fonts : [Siji](https://github.com/stark/siji) & Termsyn
 - Wallpaper : [Dark-Material](https://github.com/adi1090x/my_dotfiles/blob/master/.backgrounds/dark_material.png)
 
-
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/desktop.png) <br />
-
+![neofetch](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/desktop.png) <br />
 
 **Neofetch** : Running neofetch on termite
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/desktop_neofetch.png) <br />
-
+![tux](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/desktop_neofetch.png) <br />
 
 **The Tux** : Tux Ascii, Cylon tool, And...
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/desktop_tux.png) <br />
-
+![cli_programs](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/desktop_tux.png) <br />
 
 **Few Programs** : neofetch, cava, cmatrix, colorpanes, pipes
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/desktop_alt_1.png) <br />
-
+![hacking_1](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/desktop_alt_1.png) <br />
 
 **Penetration Tools P1** : msf, hunner, redhawk, hashbuster, sqlmap
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/hack_1.png) <br />
-
+![hacking_2](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/hack_1.png) <br />
 
 **Penetration Tools P2** : cupp, brutal, ccrypter, flood, hakku, 1337hash
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/hack_2.png) <br />
-
+![hacking_3](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/hack_2.png) <br />
 
 **Penetration Tools P3** : commix, dtect, iploc, recon-dog, a-rat, weeman, torshammer
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/hack_3.png) <br />
-
+![media](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/hack_3.png) <br />
 
 **Multimedia** : ncmpcpp, mplayer
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/media.png) <br />
-
+![file_managers](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/media.png) <br />
 
 **File Managers** : ranger, midnight commander, (mocp - music player)
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/ranger_mc_mocp.png) <br />
-
+![ranger](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/ranger_mc_mocp.png) <br />
 
 **Rofi** : rofi apps launcher multiple 
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/rofi.png) <br />
-
+![rofi](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/rofi.png) <br />
 
 **System Monitors** : gtop, htop
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/system_mon.png) <br />
-
+![system_mon](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/system_mon.png) <br />
 
 **Graphical Apps** : thunar, geany
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/thunar_geany.png) <br />
-
+![thunar](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/thunar_geany.png) <br />
 
 **Editors** : vim (vim_runtime), mcedit
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/vim_mcedit.png) <br />
-
+![vim](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/vim_mcedit.png) <br />
 
 **Web Browser** : Firefox Quantum
 
-![alt text](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/web_firefox.png) <br />
+![firefox](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/i3_wm/web_firefox.png) <br />
 
 
 ## Final Words
