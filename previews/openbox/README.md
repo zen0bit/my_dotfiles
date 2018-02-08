@@ -8,7 +8,7 @@
 
 ## Overview
 - Gtk Theme : [Arc-theme](https://github.com/horst3180/arc-theme) (Self modified for accent colors)
-- Icon Pack : [Numix-icons](https://github.com/numixproject/numix-icon-theme) (Self Modified for folder colors & [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) (For rest all icons)
+- Icon Pack : Mixed - [Numix-icons](https://github.com/numixproject/numix-icon-theme) (Self Modified for folder colors) & [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) (For rest all icons)
 - Panel : [tint2](https://github.com/semplice/tint2) (Self made themes [Here](https://github.com/adi1090x/my_dotfiles/tree/master/.config/tint2))
 - Wallpapers : [Random wallpapers](https://www.deviantart.com/morelikethis/collections/196651693)
 
