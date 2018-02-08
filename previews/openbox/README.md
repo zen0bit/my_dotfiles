@@ -39,10 +39,6 @@
 
 **Yellow Workspace** : Yellow Desktop looks with same color for Gtk-theme, Icons & Panel.
 
-**Colored Panels** : Matched colors for [Panels](https://github.com/adi1090x/my_dotfiles/tree/master/.config/tint2).
-
-![panel](https://raw.githubusercontent.com/adi1090x/my_dotfiles/master/previews/openbox/panel.png) <br />
-
 
 ## Final Words
 
