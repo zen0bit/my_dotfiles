@@ -56,7 +56,7 @@ scroll-down = i3wm-wsprev
 
 modules-left = arch xwindow
 modules-center = i3
-modules-right = redshift gmail home xkeyboard battery volume date powermenu
+modules-right = gmail home xkeyboard battery volume date powermenu
 
 # Scripts ####################################################
 # Directory = ~/.config/polybar/scripts/
@@ -66,11 +66,6 @@ type = custom/script
 exec = ~/.config/polybar/scripts/polybar-gmail/launch.py
 tail = true
 click-left = xdg-open https://mail.google.com
-
-[module/redshift]
-type = custom/script
-exec = ~/.config/polybar/scripts/info-redshift-temp/info-redshift-temp.sh
-interval = 5
 
 # Modules ####################################################
 
@@ -235,15 +230,16 @@ blacklist-0 = num lock
 
 format-prefix = " "
 format-prefix-foreground = ${color.white}
-format-prefix-underline = ${color.white}
+;format-prefix-underline = ${color.white}
 
 label-layout = %layout%
 label-layout-underline = ${color.white}
 
-label-indicator-padding = 2
-label-indicator-margin = 1
-label-indicator-background = ${color.white}
-label-indicator-underline = ${color.white}
+label-indicator-padding = 0
+;label-indicator-margin = 1
+label-indicator-background = ${color.adapta}
+label-indicator-foreground = ${color.cyan}
+;label-indicator-underline = ${color.cyan}
 
 [module/home]
 type = internal/fs
